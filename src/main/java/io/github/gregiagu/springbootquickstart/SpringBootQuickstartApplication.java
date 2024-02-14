@@ -1,11 +1,9 @@
-package io.github.gregiagu.spring.springbootquickstart;
+package io.github.gregiagu.springbootquickstart;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web
 
 @SpringBootApplication
-
 public class SpringBootQuickstartApplication {
 
 	public static void main(String[] args) {
